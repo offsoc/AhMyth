@@ -1,9 +1,9 @@
 {
     "main": "./app/main.js",
     "devDependencies": {
-        "electron": "^11.5.0",
-        "electron-builder": "^22.11.7",
-        "electron-packager": "^15.4.0"
+        "electron": "^22.3.25",
+        "electron-builder": "^25.1.8",
+        "electron-packager": "^17.1.2"
     },
     "license": "GNU GPLv3",
     "build": {
